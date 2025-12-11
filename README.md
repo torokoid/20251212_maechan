@@ -171,7 +171,7 @@ p.note { display: none; }
 <h2><span class="yellow">11,Dec,2025 農家に一台のトラクターで庭の整地</span></h2>
 <a href="20251212_001.JPG" target="_blank"><img src="20251212_001.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">メダカの水槽の水を入れ替えてスッキリ</span></h2>
+<h2><span class="yellow">メダカの水槽の水を入れ替えてスッキリ<br>Click to see MOV ↓</span></h2>
 <a href="https://youtube.com/shorts/B6xKuZznhKQ?feature=share" target="_blank"><img src="20251211_001.png" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">いつもの王立大学に向かいますが、空はどんより</span></h2>
